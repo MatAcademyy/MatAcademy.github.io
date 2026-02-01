@@ -107,9 +107,9 @@
 
 .hero {
     height: 75vh;
-       background: url("Combat%20épique%20entre%20jiu-jitsu%20et%20créature.png") center / cover no-repeat;
+       background: url("images/hero-bg.png") center / cover no-repeat;
     margin-top: 80px; /* IMPORTANT à cause du header fixe */
-}
+}c
 
 .hero::before {
     content: "";
